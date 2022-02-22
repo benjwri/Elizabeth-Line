@@ -76,4 +76,6 @@ release_date = "2021-10-10"
 
 ## Data Sources
 
-- [Carto Metro Paris Metro Map](http://carto.metro.free.fr/cartes/metro-paris/)
+- [Crossrail Timetable Rules](https://content.tfl.gov.uk/ttpr-2021.pdf)
+- [RailCam](https://railcam.uk/diagrams/x_anydiag.php?di=Crossrail1)
+- [RealTimeTrains (22nd Feb 2022)](https://www.realtimetrains.co.uk/search/detailed/gb-nr:PDX?stp=WVS&show=all&order=wtt)
