@@ -1,0 +1,13 @@
+rly_file = "ElizabethLine.rly"
+ttb_files = []
+img_files = [ "ElizabethLine.bmp",]
+doc_files = [ "README.md",]
+release_date = "2022-02-22"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+display_name = "Elizabethline"
+name = "Elizabethline"
+author = "benjwri"
+contributors = []
